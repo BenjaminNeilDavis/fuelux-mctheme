@@ -124,7 +124,7 @@ module.exports = function (grunt) {
 			full: {
 				files: ['less/**'],
 				options: {
-					livereload: true,
+					livereload: 35730,
 				},
 				tasks: ['distcss']
 			}
