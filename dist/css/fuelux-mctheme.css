@@ -772,152 +772,212 @@ input[type="button"].btn-block {
   top: 1px;
   display: inline-block;
   line-height: 1;
-  background: url("../img/fuelux-mctheme-icons-subset-winter-2014.png") top left no-repeat;
+  background: url("../img/fuelux-mctheme-icons.png") top left no-repeat;
 }
 .fuelux-mctheme-icon.download {
-  width: 16px;
-  height: 16px;
-  background-position: -10px -111px;
+  width: 20px;
+  height: 15px;
+  background-position: -10px -296px;
 }
 .fuelux-mctheme-icon.download:hover {
-  width: 16px;
-  height: 16px;
-  background-position: -10px -136px;
+  width: 20px;
+  height: 15px;
+  background-position: -10px -271px;
 }
 .fuelux-mctheme-icon.trash {
-  width: 16px;
-  height: 16px;
-  background-position: -10px -211px;
+  width: 20px;
+  height: 14px;
+  background-position: -10px -445px;
 }
 .fuelux-mctheme-icon.trash:hover {
-  width: 16px;
-  height: 16px;
-  background-position: -10px -186px;
+  width: 20px;
+  height: 15px;
+  background-position: -10px -396px;
 }
 .fuelux-mctheme-icon.file-copy {
-  width: 16px;
-  height: 16px;
-  background-position: -10px -161px;
+  width: 20px;
+  height: 15px;
+  background-position: -10px -246px;
 }
 .fuelux-mctheme-icon.file-copy:hover {
-  width: 16px;
+  width: 20px;
   height: 16px;
+  background-position: -10px -220px;
+}
+.fuelux-mctheme-icon.refresh {
+  width: 20px;
+  height: 16px;
+  background-position: -10px -168px;
+}
+.fuelux-mctheme-icon.refresh:hover {
+  width: 20px;
+  height: 16px;
+  background-position: -10px -194px;
+}
+.fuelux-mctheme-icon.transfer {
+  width: 20px;
+  height: 17px;
+  background-position: -10px -10px;
+}
+.fuelux-mctheme-icon.transfer:hover {
+  width: 20px;
+  height: 17px;
+  background-position: -10px -37px;
+}
+.fuelux-mctheme-icon.arrow-dotted-left-blue-med {
+  width: 20px;
+  height: 16px;
+  background-position: -10px -90px;
+}
+.fuelux-mctheme-icon.arrow-dotted-left-grey-med {
+  width: 20px;
+  height: 16px;
+  background-position: -10px -64px;
+}
+.fuelux-mctheme-icon.arrow-dotted-right-blue-med {
+  width: 20px;
+  height: 16px;
+  background-position: -10px -142px;
+}
+.fuelux-mctheme-icon.arrow-dotted-right-grey-med {
+  width: 20px;
+  height: 16px;
+  background-position: -10px -116px;
+}
+.fuelux-mctheme-icon.arrows-dotted-left-right-blue-med {
+  width: 20px;
+  height: 17px;
+  background-position: -10px -37px;
+}
+.fuelux-mctheme-icon.arrows-dotted-left-right-grey-med {
+  width: 20px;
+  height: 17px;
   background-position: -10px -10px;
 }
 .fuelux-mctheme-icon.calendar-blue-med-hover {
-  width: 16px;
-  height: 16px;
-  background-position: -10px -61px;
+  width: 20px;
+  height: 15px;
+  background-position: -10px -346px;
 }
 .fuelux-mctheme-icon.calendar-blue-med {
-  width: 16px;
-  height: 16px;
-  background-position: -10px -86px;
+  width: 20px;
+  height: 15px;
+  background-position: -10px -321px;
 }
 .fuelux-mctheme-icon.calendar-grey-med-disabled {
-  width: 16px;
-  height: 16px;
-  background-position: -10px -36px;
+  width: 20px;
+  height: 15px;
+  background-position: -10px -371px;
 }
 .fuelux-mctheme-icon.copy-blue-med {
-  width: 16px;
+  width: 20px;
   height: 16px;
-  background-position: -10px -10px;
+  background-position: -10px -220px;
 }
 .fuelux-mctheme-icon.copy-grey-med {
-  width: 16px;
-  height: 16px;
-  background-position: -10px -161px;
+  width: 20px;
+  height: 15px;
+  background-position: -10px -246px;
 }
 .fuelux-mctheme-icon.download-blue-med {
-  width: 16px;
-  height: 16px;
-  background-position: -10px -136px;
+  width: 20px;
+  height: 15px;
+  background-position: -10px -271px;
 }
 .fuelux-mctheme-icon.download-grey-med {
-  width: 16px;
-  height: 16px;
-  background-position: -10px -111px;
+  width: 20px;
+  height: 15px;
+  background-position: -10px -296px;
 }
 .fuelux-mctheme-icon.edit-blue-med {
-  width: 16px;
-  height: 16px;
-  background-position: -10px -282px;
+  width: 20px;
+  height: 13px;
+  background-position: -10px -492px;
 }
 .fuelux-mctheme-icon.edit-green-med {
-  width: 16px;
-  height: 16px;
-  background-position: -10px -235px;
+  width: 20px;
+  height: 14px;
+  background-position: -10px -421px;
 }
 .fuelux-mctheme-icon.edit-grey-flat-med {
-  width: 16px;
-  height: 16px;
-  background-position: -10px -259px;
+  width: 20px;
+  height: 13px;
+  background-position: -10px -469px;
 }
 .fuelux-mctheme-icon.edit-grey-med {
-  width: 11px;
+  width: 20px;
   height: 11px;
-  background-position: -10px -534px;
+  background-position: -10px -744px;
+}
+.fuelux-mctheme-icon.refresh-blue-med {
+  width: 20px;
+  height: 16px;
+  background-position: -10px -194px;
+}
+.fuelux-mctheme-icon.refresh-grey-med {
+  width: 20px;
+  height: 16px;
+  background-position: -10px -168px;
 }
 .fuelux-mctheme-icon.thumbs-down-blue-med {
-  width: 16px;
-  height: 16px;
-  background-position: -10px -466px;
+  width: 20px;
+  height: 13px;
+  background-position: -10px -676px;
 }
 .fuelux-mctheme-icon.thumbs-down-green-med {
-  width: 16px;
-  height: 16px;
-  background-position: -10px -420px;
+  width: 20px;
+  height: 13px;
+  background-position: -10px -630px;
 }
 .fuelux-mctheme-icon.thumbs-down-red-med {
-  width: 16px;
-  height: 16px;
-  background-position: -10px -328px;
+  width: 20px;
+  height: 13px;
+  background-position: -10px -538px;
 }
 .fuelux-mctheme-icon.thumbs-down-white-med {
-  width: 16px;
-  height: 16px;
-  background-position: -10px -374px;
+  width: 20px;
+  height: 13px;
+  background-position: -10px -584px;
 }
 .fuelux-mctheme-icon.thumbs-up-blue-med {
-  width: 16px;
-  height: 16px;
-  background-position: -10px -489px;
+  width: 20px;
+  height: 13px;
+  background-position: -10px -699px;
 }
 .fuelux-mctheme-icon.thumbs-up-green-med {
-  width: 16px;
-  height: 16px;
-  background-position: -10px -443px;
+  width: 20px;
+  height: 13px;
+  background-position: -10px -653px;
 }
 .fuelux-mctheme-icon.thumbs-up-red-med {
-  width: 16px;
-  height: 16px;
-  background-position: -10px -351px;
+  width: 20px;
+  height: 13px;
+  background-position: -10px -561px;
 }
 .fuelux-mctheme-icon.thumbs-up-white-med {
-  width: 16px;
-  height: 16px;
-  background-position: -10px -397px;
+  width: 20px;
+  height: 13px;
+  background-position: -10px -607px;
 }
 .fuelux-mctheme-icon.trash-blue-med {
-  width: 16px;
-  height: 16px;
-  background-position: -10px -186px;
+  width: 20px;
+  height: 15px;
+  background-position: -10px -396px;
 }
 .fuelux-mctheme-icon.trash-blue-small {
-  width: 11px;
-  height: 16px;
-  background-position: -10px -305px;
+  width: 20px;
+  height: 13px;
+  background-position: -10px -515px;
 }
 .fuelux-mctheme-icon.trash-grey-med {
-  width: 16px;
-  height: 16px;
-  background-position: -10px -211px;
+  width: 20px;
+  height: 14px;
+  background-position: -10px -445px;
 }
 .fuelux-mctheme-icon.trash-grey-small {
-  width: 11px;
-  height: 16px;
-  background-position: -10px -516px;
+  width: 20px;
+  height: 12px;
+  background-position: -10px -722px;
 }
 fieldset {
   padding: 0;
